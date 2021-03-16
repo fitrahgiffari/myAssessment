@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-05T08:47:56.285651814Z</date>
+  <millis>1614934076285</millis>
+  <nanos>651814</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>fileMover.fileMover</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>file SKBK.pdf success</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-05T08:50:50.300432097Z</date>
+  <millis>1614934250300</millis>
+  <nanos>432097</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>fileMover.fileMover</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>file SKBK.pdf success</message>
+</record>
+</log>
